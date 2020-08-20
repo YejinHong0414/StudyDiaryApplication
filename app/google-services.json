@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490379801396",
+    "firebase_url": "https://studydiaryapplication.firebaseio.com",
+    "project_id": "studydiaryapplication",
+    "storage_bucket": "studydiaryapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490379801396:android:41362655968004b626eb61",
+        "android_client_info": {
+          "package_name": "com.guru2_6.studydiaryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490379801396-4le5cc2me30o21m87gt3ih5nsc5cbmf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmw0L2534bC6VhaQ_i837lYm2gFzZn70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490379801396-4le5cc2me30o21m87gt3ih5nsc5cbmf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
